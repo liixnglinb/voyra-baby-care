@@ -1,0 +1,15 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "voyra-baby-care",
+    "license":  "MIT",
+    "description":  "瀹濆疂鎶ょ悊 路 璁板綍瀹濆疂鐨勪綔鎭€佸杺鍏诲拰鎴愰暱鏁版嵁锛岃鏃ュ父鎶ょ悊鏈夎抗鍙惊锛圴oyra 妯″潡锛墊 Baby care tracker",
+    "keywords":  [
+                     "baby",
+                     "care",
+                     "tracker",
+                     "growth",
+                     "react",
+                     "瀹濆疂鎶ょ悊"
+                 ],
+    "private":  true
+}
