@@ -31,7 +31,7 @@ jobs:
           cd voyra
           git config user.name "voyra-baby-care-sync[bot]"
           git config user.email "liixnglinb@users.noreply.github.com"
-          git add src/pages/BabyCare.jsx voyra/src/pages/babycare-modules.jsx voyra/src/components/TrendChart.jsx
+          git add src/pages/BabyCare.jsx src/pages/babycare-modules.jsx src/components/TrendChart.jsx
           if git diff --cached --quiet; then
             echo "无代码变更，跳过提交"
             exit 0
