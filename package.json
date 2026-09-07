@@ -2,14 +2,14 @@
     "version":  "1.0.0",
     "name":  "voyra-baby-care",
     "license":  "MIT",
-    "description":  "瀹濆疂鎶ょ悊 路 璁板綍瀹濆疂鐨勪綔鎭€佸杺鍏诲拰鎴愰暱鏁版嵁锛岃鏃ュ父鎶ょ悊鏈夎抗鍙惊锛圴oyra 妯″潡锛墊 Baby care tracker",
+    "description":  "宝宝护理 · 记录宝宝的作息、喂养和成长数据，让日常护理有迹可循（Voyra 模块）| Baby care tracker",
     "keywords":  [
                      "baby",
                      "care",
                      "tracker",
                      "growth",
                      "react",
-                     "瀹濆疂鎶ょ悊"
+                     "宝宝护理"
                  ],
     "private":  true
 }
