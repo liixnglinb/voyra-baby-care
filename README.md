@@ -4,7 +4,7 @@
 
 **新生儿喂养/排泄/睡眠全记录，趋势图表与成长提醒 ｜ Newborn feeding, diaper and sleep tracking with growth trends**
 
-[![Sync to Voyra](https://github.com/liixnglinb/voyra-baby-care/actions/workflows/sync-to-voyra.yml/badge.svg)](https://github.com/liixnglinb/voyra-baby-care/actions/workflows/sync-to-voyra.yml)
+[![Sync to Voyra](https://github.com/liixnglinb/Voyra-baby-care/actions/workflows/sync-to-voyra.yml/badge.svg)](https://github.com/liixnglinb/Voyra-baby-care/actions/workflows/sync-to-voyra.yml)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38BDF8?logo=tailwindcss&logoColor=white)
@@ -67,7 +67,7 @@ src/
 
 ```mermaid
 flowchart LR
-  A["本仓库<br/>voyra-baby-care"] -->|git push| B["GitHub Actions"]
+  A["本仓库<br/>Voyra-baby-care"] -->|git push| B["GitHub Actions"]
   B -->|同步页面/模块/图表| C["Voyra 主仓库"]
   C -->|自动构建| D["Cloudflare Pages"]
   D --> E["lxlrwxs.top/#/baby-care"]
